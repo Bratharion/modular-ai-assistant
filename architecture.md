@@ -119,6 +119,6 @@ These limitations create high operational costs, slow response times, and limite
 ---
 
 **License:** MIT / Apache 2 (optional)  
-**Contact:** [brandifrommms@gmail.com]  
+**Contact:** Reach out via GitHub  
 **Status:** Draft – Not yet implemented  
 **Keywords:** LLM, modular AI, assistant, vector store, caching, memory, microservices, chatbot architecture
