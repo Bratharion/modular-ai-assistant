@@ -26,6 +26,6 @@ This is a concept architecture. Not implemented yet. Feedback welcome.
 
 ## 🙋‍♀️ Author
 
-Brandi Fromms  
+Bratharion
 IT systems lead, architect of practical ideas  
 Open to feedback, collaborators, and real-world builds.
