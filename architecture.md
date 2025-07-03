@@ -111,10 +111,13 @@ These limitations create high operational costs, slow response times, and limite
 ---
 
 ## 7. Next Steps
-- Build a proof of concept
-- Publish on GitHub with README + pseudocode
-- Create a modular plugin interface
-- Test memory/context recall with synthetic users
+ - I’ll continue monitoring interest from GitHub, Reddit, and Hacker News
+ - I’m evaluating whether there’s enough momentum or feedback to justify building a proof of concept
+ - If I move forward, I’ll likely start by prototyping a single module (probably memory or routing)
+ - I’m open to collaboration — feedback, criticism, or pull requests are welcome
+ - I may write a technical blog post or summary to help more people understand the design
+ - I’m also exploring integration with open-source LLMs (like Ollama or Mistral)
+ - If it makes sense long-term, I’ll consider building a modular prototype using FastAPI, LangChain, and a vector database
 
 ---
 
