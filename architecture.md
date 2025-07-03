@@ -118,7 +118,7 @@ These limitations create high operational costs, slow response times, and limite
 
 ---
 
-**License:** MIT / Apache 2 (optional)  
+**License:** MIT  
 **Contact:** **Contact:** [Reach out via GitHub](https://github.com/Bratharion/modular-ai-assistant/issues) or bratharion@gmail.com
 **Status:** This is a **concept architecture** only. It is not implemented yet. The design is public and open to feedback, collaboration, or adaptation.
 **Keywords:** LLM, modular AI, assistant, vector store, caching, memory, microservices, chatbot architecture
