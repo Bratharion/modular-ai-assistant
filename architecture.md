@@ -120,5 +120,5 @@ These limitations create high operational costs, slow response times, and limite
 
 **License:** MIT / Apache 2 (optional)  
 **Contact:** **Contact:** [Reach out via GitHub](https://github.com/brandifromms/modular-ai-assistant/issues)
-**Status:** Draft – Not yet implemented  
+**Status:** This is a **concept architecture** only. It is not implemented yet. The design is public and open to feedback, collaboration, or adaptation.
 **Keywords:** LLM, modular AI, assistant, vector store, caching, memory, microservices, chatbot architecture
